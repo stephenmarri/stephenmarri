@@ -45,7 +45,7 @@ The below are a few fully functional JavaScript projects which are inspired from
  3. [Mathematical Functions](https://stephenmarri.github.io/js_projects/mathFunctions/)
  4. [Project Euler Solutions](https://stephenmarri.github.io/project_euler/site/)
 
-# JavaScript30
+## JavaScript30
 
 Contains my versions of the projects that are a part of Wes Bos's 30 days of Vanilla JS.  
 
@@ -63,7 +63,7 @@ Below are the github pages links where you can access each project.
 8. [Video Player](https://stephenmarri.github.io/JavaScript30/11-VideoPlayer/)
 
 
-# singletons
+## Singletons
 Projects, mostly static, and are just a piece of action
 
 Project 1: Interactive search: A simple static page that has a fancy search bar and that's it. Nothing else. Open.Hover.Type.Exit :)
