@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Stephen. Check out all the games and projects that I've built. Drop a note if you've have some interesting ideas for me.
+This is Stephen. Check out all the games and projects that I've built. Drop a note if you have some interesting ideas for me.
 
 
 ## Vanilla JS - games  
