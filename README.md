@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 This is Stephen. Check out all the games and projects that I've built. Drop a note if you have some interesting ideas for me.
+Check out my GitHub repos by clicking [here](https://github.com/stephenmarri).
 
 
 ## Vanilla JS - games  
