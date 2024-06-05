@@ -10,11 +10,9 @@ Below you'll find a few projects that I built while learning to program primaril
 
 ## Featured Projects
 
-</style>
-
 <table id="feature_table">
   <tr>
-    <td style="width:40%">Sudoku</td>
+    <td style="width:40%; border-collapse: collapse; border:0 !important">Sudoku</td>
     <td><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td>
   </tr>
   <tr>
@@ -56,9 +54,8 @@ These games are inspired from popular ideas and are almost similar to their orig
 > <q>If carpenters made buildings the way programmers make programs, the first woodpecker to come along would destroy all of civilization.</q><br><em>- Unknown Author</em>
 
 <br>
-<details>
-<summary><span style="font-weight:600;color: black; font-size: 1.5em; padding-bottom: 0.3em; border-bottom: 1px solid #eaecef;">JavaScript - Silly Projects</span></summary>
-<br>
+<details> 
+<summary><span style="font-weight:600;color: black; font-size: 1.5em; padding-bottom: 0.3em; border-bottom: 1px solid #eaecef;">JavaScript - Silly Projects</span></summary> 
 
   Contains my versions of the projects that are a part of Wes Bos's 30 days of Vanilla JS.
   1. Drum Kit - [Click here to visit](https://stephenmarri.github.io/JavaScript30/01-DrumKit/)
@@ -76,8 +73,6 @@ These games are inspired from popular ideas and are almost similar to their orig
   3.  Interactive Serach - [Click here to visit](https://stephenmarri.github.io/singletons/interactiveSearchBox/)
   4.  Simple Sprite - [Click here to visit](https://stephenmarri.github.io/singletons/sprites/index.html)
   5.  FreeCodeCamp Pages: [TributePages](https://stephenmarri.github.io/fcc/tributePages/), [SurveyForms](https://stephenmarri.github.io/fcc/surveyForms/), [LandingPages](https://stephenmarri.github.io/fcc/landingPages/), [DocumentationPages](https://stephenmarri.github.io/fcc/documentationPages/), [PortfolioPages](https://stephenmarri.github.io/fcc/portfolioPages/)
-
-
 
 </deatils>
 
