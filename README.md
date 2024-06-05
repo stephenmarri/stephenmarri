@@ -9,17 +9,6 @@ Below you'll find a few projects that I built while learning to program primaril
 <br>You can check out my GitHub repositories [here](https://github.com/stephenmarri).
 
 ## Featured Projects
-<style>
-table td, table tr{
-    border-collapse: collapse !important;
-    border: 0 !important;
-    padding-top:0px !important;
-    padding-bottom:0px important;
-  }
-
-table tr:nth-child(2n) {
-    background-color: white !important;
-}
 
 </style>
 
@@ -46,6 +35,7 @@ table tr:nth-child(2n) {
   </tr>
 </table>
 
+
 ### JavaScript - Simple Games
 
 These games are inspired from popular ideas and are almost similar to their original form.
@@ -68,6 +58,7 @@ These games are inspired from popular ideas and are almost similar to their orig
 <br>
 <details>
 <summary><span style="font-weight:600;color: black; font-size: 1.5em; padding-bottom: 0.3em; border-bottom: 1px solid #eaecef;">JavaScript - Silly Projects</span></summary>
+<br>
 
   Contains my versions of the projects that are a part of Wes Bos's 30 days of Vanilla JS.
   1. Drum Kit - [Click here to visit](https://stephenmarri.github.io/JavaScript30/01-DrumKit/)
