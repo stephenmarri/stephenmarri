@@ -33,7 +33,8 @@ These games are inspired from popular ideas and are almost similar to their orig
   9. Whackamole     - [Click here to play the game](https://stephenmarri.github.io/games/whackamole/)  
   10. Frogger        - [Click here to play the game](https://stephenmarri.github.io/games/frogger/)  
   
-  
+  ![demo_sudoku](https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839)
+
 <em>Except 'Frogger' and 'Space Invaders' all the remaining are compatible with mobile devices.</em>
 
 
