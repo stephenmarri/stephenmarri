@@ -31,11 +31,15 @@ These games are inspired from popular ideas and are almost similar to their orig
   7. Memory Cards   - [Click here to play the game](https://stephenmarri.github.io/games/memoryCards/)  
   8. Connect Four   - [Click here to play the game](https://stephenmarri.github.io/games/connectfour/)  
   9. Whackamole     - [Click here to play the game](https://stephenmarri.github.io/games/whackamole/)  
-  10. Frogger        - [Click here to play the game](https://stephenmarri.github.io/games/frogger/)  
-  
-  ![demo_sudoku](https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839)
+  10. Frogger        - [Click here to play the game](https://stephenmarri.github.io/games/frogger/)
 
+| __SUDOKU__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/sudoku/)_ <br><br> <img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300"> <br><br> | Sudoku         - [Click here to play the game](https://stephenmarri.github.io/games/sudoku/) <br> <img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300">  |
+| ------------- | ------------- |
+| Sudoku         - [Click here to play the game](https://stephenmarri.github.io/games/sudoku/) <br> <img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300">  | Sudoku         - [Click here to play the game](https://stephenmarri.github.io/games/sudoku/) <br> <img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300">  |
+
+<img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300">
 <em>Except 'Frogger' and 'Space Invaders' all the remaining are compatible with mobile devices.</em>
+![img_2048](./images/img_2048.png)
 
 
 ## JavaScript Projects
