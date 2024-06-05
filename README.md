@@ -20,7 +20,7 @@ Below you'll find a few projects that I built while learning to program primaril
     <td style="border:0 !important; padding:2px 4px important"><a href="https://stephenmarri.github.io/games/2048/" target="_blank">Click here to visit</a></td>
   </tr>
    <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px important">
-    <td style="border:0 !important; padding:2px 4px important">Project Euler Solutions</td>
+    <td style="border:0 !important; padding:2px 4px important">Project Euler</td>
     <td style="border:0 !important; padding:2px 4px important"><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td>
   </tr>
     <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px important; background-color: white;">
@@ -59,23 +59,15 @@ These games are inspired from popular ideas and are almost similar to their orig
   2. Analog Clock - [Click here to visit](https://stephenmarri.github.io/JavaScript30/02-AnalogClock/index.html)
   3. Change Colors - [Click here to visit](https://stephenmarri.github.io/JavaScript30/03-CSSVariables/)
   4. Flex Panels - [Click here to visit](https://stephenmarri.github.io/JavaScript30/05-FlexPanels/index.html)
-
-<details> 
-<summary>View all...</summary>
-<br>
-
-Indian Cities - [Click here to visit](https://stephenmarri.github.io/JavaScript30/06-TypeAhead/)
-  2. Canvas - [Click here to visit](https://stephenmarri.github.io/JavaScript30/08-Canvas/)
-  3. Check Boxes - [Click here to visit](https://stephenmarri.github.io/JavaScript30/10-CheckBoxes/)
-  4. Video Player - [Click here to visit](https://stephenmarri.github.io/JavaScript30/11-VideoPlayer/)
-  5. 
+  5. Indian Cities - [Click here to visit](https://stephenmarri.github.io/JavaScript30/06-TypeAhead/)
+  6. Canvas - [Click here to visit](https://stephenmarri.github.io/JavaScript30/08-Canvas/)
+  7. Check Boxes - [Click here to visit](https://stephenmarri.github.io/JavaScript30/10-CheckBoxes/)
+  8. Video Player - [Click here to visit](https://stephenmarri.github.io/JavaScript30/11-VideoPlayer/)
+   
   and more *sillier* projects.....
   1. Mathematical Functions - [Click here to play the game](https://stephenmarri.github.io/js_projects/mathFunctions/)
   2.  Random Dad's Jokes - [Clich here to visit](https://stephenmarri.github.io/singletons/randomDadJokes/)
   3.  Interactive Serach - [Click here to visit](https://stephenmarri.github.io/singletons/interactiveSearchBox/)
   4.  Simple Sprite - [Click here to visit](https://stephenmarri.github.io/singletons/sprites/index.html)
   5.  FreeCodeCamp Pages: [TributePages](https://stephenmarri.github.io/fcc/tributePages/), [SurveyForms](https://stephenmarri.github.io/fcc/surveyForms/), [LandingPages](https://stephenmarri.github.io/fcc/landingPages/), [DocumentationPages](https://stephenmarri.github.io/fcc/documentationPages/), [PortfolioPages](https://stephenmarri.github.io/fcc/portfolioPages/)
-
-</deatils>
-
 
