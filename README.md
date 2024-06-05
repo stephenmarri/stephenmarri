@@ -33,13 +33,25 @@ These games are inspired from popular ideas and are almost similar to their orig
   9. Whackamole     - [Click here to play the game](https://stephenmarri.github.io/games/whackamole/)  
   10. Frogger        - [Click here to play the game](https://stephenmarri.github.io/games/frogger/)
 
-| __SUDOKU__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/sudoku/)_ <br><br> <img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300"> <br><br> | Sudoku         - [Click here to play the game](https://stephenmarri.github.io/games/sudoku/) <br> <img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300">  |
-| ------------- | ------------- |
-| Sudoku         - [Click here to play the game](https://stephenmarri.github.io/games/sudoku/) <br> <img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300">  | Sudoku         - [Click here to play the game](https://stephenmarri.github.io/games/sudoku/) <br> <img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300">  |
+| __SUDOKU__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/sudoku/)_ <br><br> <img src="./images/demo_sudoku.gif" height="300"> <br><br> | __2048__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/2048/)_ <br><br> <img src="./images/img_2048.png" height="300"> <br><br>  |
+| :-------------: | :-------------: |
+|  __TETRIS__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/tetris/)_ <br><br> <img src="./images/img_tetris.png" height="300"> <br><br> |  __SPACE INVADERS__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/spaceInvaders/)_ <br><br> <img src="./images/img_space_invaders.png" height="300"> <br><br>  |
+|  __NOKIA SNAKE__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/nokiasnake/)_ <br><br> <img src="./images/img_nokia_snake.png" height="300"> <br><br> |  __CONNECT 4__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/connectfour/)_ <br><br> <img src="./images/img_connect4.png" height="300"> <br><br>  |
 
-<img src="https://github.com/stephenmarri/stephenmarri/assets/23499532/9ce520b5-5163-4ffd-a056-1c9ac9eee839" width="300">
-<em>Except 'Frogger' and 'Space Invaders' all the remaining are compatible with mobile devices.</em>
-![img_2048](./images/img_2048.png)
+<table>
+  <tr>
+    <td>Content from cell 1</td>
+    <td>Content from cell 2</td>
+  </tr>
+  <tr>
+    <td>Content from cell 1</td>
+    <td>Content from cell 2</td>
+  </tr>
+  <tr>
+    <td>Content in the first column</td>
+    <td>Content in the second column</td>
+  </tr>
+</table>
 
 
 ## JavaScript Projects
