@@ -11,25 +11,25 @@ Below you'll find a few projects that I built while learning to program primaril
 ## Featured Projects
 
 <table style="border-collapse: collapse; border: 0 !important" id="feature_table">
-  <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px important">
-    <td style="width:50%; border:0 !important; padding:2px 4px important">Sudoku</td>
-    <td style="border:0 !important; padding:2px 4px important"><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td>
+  <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px !important">
+    <td style="width:50%; border:0 !important; padding:2px 4px !important">Sudoku</td>
+    <td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td>
   </tr>
-  <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px important; background-color: white;">
-    <td style="border:0 !important; padding:2px 4px important">2048</td>
-    <td style="border:0 !important; padding:2px 4px important"><a href="https://stephenmarri.github.io/games/2048/" target="_blank">Click here to visit</a></td>
+  <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px !important; background-color: white;">
+    <td style="border:0 !important; padding:2px 4px !important">2048</td>
+    <td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/games/2048/" target="_blank">Click here to visit</a></td>
   </tr>
-   <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px important">
-    <td style="border:0 !important; padding:2px 4px important">Project Euler</td>
-    <td style="border:0 !important; padding:2px 4px important"><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td>
+   <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px !important">
+    <td style="border:0 !important; padding:2px 4px !important">Project Euler</td>
+    <td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td>
   </tr>
-    <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px important; background-color: white;">
-      <td style="border:0 !important; padding:2px 4px important">Sorting Visualizer</td>
-      <td style="border:0 !important; padding:2px 4px important"><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td>
+    <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px !important; background-color: white;">
+      <td style="border:0 !important; padding:2px 4px !important">Sorting Visualizer</td>
+      <td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td>
   </tr>
-    <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px important">
-    <td style="border:0 !important; padding:2px 4px important">Ceaser's Cipher</td>
-    <td style="border:0 !important; padding:2px 4px important"><a href="https://stephenmarri.github.io/js_projects/ciphers/" target="_blank">Click here to visit</a></td>
+    <tr style="border-collapse: collapse; border: 0 !important; padding:2px 4px !important">
+    <td style="border:0 !important; padding:2px 4px !important">Ceaser's Cipher</td>
+    <td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/js_projects/ciphers/" target="_blank">Click here to visit</a></td>
   </tr>
 </table>
 
