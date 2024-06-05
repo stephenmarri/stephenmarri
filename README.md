@@ -51,8 +51,9 @@ These games are inspired from popular ideas and are almost similar to their orig
 ###### Python
 1. Capitals Quiz Game: <a href="https://github.com/stephenmarri/100-Projects/blob/main/python/01.CapitalsQuiz/demo.gif?raw=true?raw=true" target="_blank">Demo</a>
 2. Tic Tac Toe: <a href="https://github.com/stephenmarri/100-Projects/blob/main/python/02.TicTacToe/demo.gif?raw=true" target="_blank">Demo</a>
+
 ###### Web Based
-1. Tic Tac Toe <a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/1.TicTacToe" target="_blank">Code</a> - <a href="https://100projects-01-tictactoe-git-main-stephenmarris-projects.vercel.app/" target="_blank">Live Link - Vercel</a> - <a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/01.TicTacToe/TicTacToe/public/demo.gif?raw=true" target="_blank">Demo</a>
+1. Tic Tac Toe <a href="https://github.com/stephenmarri/100-Projects/tree/main/javascript/01.TicTacToe/TicTacToe" target="_blank">Code</a> - <a href="https://100projects-01-tictactoe-git-main-stephenmarris-projects.vercel.app/" target="_blank">Live Link - Vercel</a> - <a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/01.TicTacToe/TicTacToe/public/demo.gif?raw=true" target="_blank">Demo</a>
 2. Countries <a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/2.CapitalsQuiz" target="_blank">Code</a> - <a href="https://100projects-02-countriesquiz.vercel.app/" target="_blank">Live Link - Vercel</a> - <a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/2.CapitalsQuiz/public/demo.gif?raw=true" target="_blank">Demo</a>
 
 
