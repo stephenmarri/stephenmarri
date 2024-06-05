@@ -10,19 +10,22 @@ Check out some of the games and projects that I've tried.
 
 ### Featured Projects
 <style>
-  #feature_table td{
+table td, table tr{
     border-collapse: collapse !important;
-    border: 0;
+    border: 0 !important;
     padding-top:2px;
     padding-bottom:2px;
   }
 
+table tr:nth-child(2n) {
+    background-color: white !important;
+}
 
 </style>
 
 <table id="feature_table">
   <tr>
-    <td style="width:60%">Sorting Visualizer</td>
+    <td style="width:40%">Sorting Visualizer</td>
     <td><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td>
   </tr>
   <tr>
