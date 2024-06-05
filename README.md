@@ -11,7 +11,7 @@ Check out some of the games and projects that I've tried.
 ### Featured Projects
 <style>
   #feature_table td{
-    border-collapse: collapse;
+    border-collapse: collapse !important;
     border: 0;
     padding-top:2px;
     padding-bottom:2px;
