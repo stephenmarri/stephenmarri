@@ -63,6 +63,7 @@ These games are inspired from popular ideas and are almost similar to their orig
 <details> 
 <summary>View all...</summary>
 <br>
+
 Indian Cities - [Click here to visit](https://stephenmarri.github.io/JavaScript30/06-TypeAhead/)
   2. Canvas - [Click here to visit](https://stephenmarri.github.io/JavaScript30/08-Canvas/)
   3. Check Boxes - [Click here to visit](https://stephenmarri.github.io/JavaScript30/10-CheckBoxes/)
