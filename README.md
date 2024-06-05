@@ -15,19 +15,19 @@ Below you'll find a few projects that I built while learning to program primaril
     <td style="width:40%; border:0 !important">Sudoku</td>
     <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td>
   </tr>
-  <tr style="border-collapse: collapse; border: 0 !important; padding-bottom:0px important">
+  <tr style="border-collapse: collapse; border: 0 !important; padding-bottom:0px important; background-color: white;">
     <td style="border:0 !important; padding-bottom:0px important">2048</td>
     <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/games/2048/" target="_blank">Click here to visit</a></td>
   </tr>
-  <tr>
+   <tr style="border-collapse: collapse; border: 0 !important; padding-bottom:0px important">
     <td style="border:0 !important; padding-bottom:0px important">Project Euler Solutions</td>
     <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td>
   </tr>
-   <tr>
-    <td style="border:0 !important; padding-bottom:0px important">Sorting Visualizer</td>
-    <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td>
+    <tr style="border-collapse: collapse; border: 0 !important; padding-bottom:0px important; background-color: white;">
+      <td style="border:0 !important; padding-bottom:0px important">Sorting Visualizer</td>
+      <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td>
   </tr>
-    <tr>
+    <tr style="border-collapse: collapse; border: 0 !important; padding-bottom:0px important">
     <td style="border:0 !important; padding-bottom:0px important">Ceaser's Cipher</td>
     <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/js_projects/ciphers/" target="_blank">Click here to visit</a></td>
   </tr>
@@ -59,14 +59,15 @@ These games are inspired from popular ideas and are almost similar to their orig
   2. Analog Clock - [Click here to visit](https://stephenmarri.github.io/JavaScript30/02-AnalogClock/index.html)
   3. Change Colors - [Click here to visit](https://stephenmarri.github.io/JavaScript30/03-CSSVariables/)
   4. Flex Panels - [Click here to visit](https://stephenmarri.github.io/JavaScript30/05-FlexPanels/index.html)
+
 <details> 
 <summary>View all...</summary>
 
-  5. Indian Cities - [Click here to visit](https://stephenmarri.github.io/JavaScript30/06-TypeAhead/)
-  6. Canvas - [Click here to visit](https://stephenmarri.github.io/JavaScript30/08-Canvas/)
-  7. Check Boxes - [Click here to visit](https://stephenmarri.github.io/JavaScript30/10-CheckBoxes/)
-  8. Video Player - [Click here to visit](https://stephenmarri.github.io/JavaScript30/11-VideoPlayer/)
-  9. 
+1. Indian Cities - [Click here to visit](https://stephenmarri.github.io/JavaScript30/06-TypeAhead/)
+  2. Canvas - [Click here to visit](https://stephenmarri.github.io/JavaScript30/08-Canvas/)
+  3. Check Boxes - [Click here to visit](https://stephenmarri.github.io/JavaScript30/10-CheckBoxes/)
+  4. Video Player - [Click here to visit](https://stephenmarri.github.io/JavaScript30/11-VideoPlayer/)
+  5. 
   and more *sillier* projects.....
   1. Mathematical Functions - [Click here to play the game](https://stephenmarri.github.io/js_projects/mathFunctions/)
   2.  Random Dad's Jokes - [Clich here to visit](https://stephenmarri.github.io/singletons/randomDadJokes/)
