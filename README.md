@@ -10,26 +10,26 @@ Below you'll find a few projects that I built while learning to program primaril
 
 ## Featured Projects
 
-<table id="feature_table">
-  <tr>
-    <td style="width:40%; border-collapse: collapse; border:0 !important">Sudoku</td>
-    <td><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td>
+<table style="border-collapse: collapse; border: 0 !important" id="feature_table">
+  <tr style="border-collapse: collapse; border: 0 !important; padding-bottom:0px important">
+    <td style="width:40%; border:0 !important">Sudoku</td>
+    <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td>
+  </tr>
+  <tr style="border-collapse: collapse; border: 0 !important; padding-bottom:0px important">
+    <td style="border:0 !important; padding-bottom:0px important">2048</td>
+    <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/games/2048/" target="_blank">Click here to visit</a></td>
   </tr>
   <tr>
-    <td>2048</td>
-    <td><a href="https://stephenmarri.github.io/games/2048/" target="_blank">Click here to visit</a></td>
-  </tr>
-  <tr>
-    <td>Project Euler Solutions</td>
-    <td><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td>
+    <td style="border:0 !important; padding-bottom:0px important">Project Euler Solutions</td>
+    <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td>
   </tr>
    <tr>
-    <td>Sorting Visualizer</td>
-    <td><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td>
+    <td style="border:0 !important; padding-bottom:0px important">Sorting Visualizer</td>
+    <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td>
   </tr>
     <tr>
-    <td>Ceaser's Cipher</td>
-    <td><a href="https://stephenmarri.github.io/js_projects/ciphers/" target="_blank">Click here to visit</a></td>
+    <td style="border:0 !important; padding-bottom:0px important">Ceaser's Cipher</td>
+    <td style="border:0 !important; padding-bottom:0px important"><a href="https://stephenmarri.github.io/js_projects/ciphers/" target="_blank">Click here to visit</a></td>
   </tr>
 </table>
 
@@ -53,15 +53,15 @@ These games are inspired from popular ideas and are almost similar to their orig
 
 > <q>If carpenters made buildings the way programmers make programs, the first woodpecker to come along would destroy all of civilization.</q><br><em>- Unknown Author</em>
 
-<br>
-<details> 
-<summary><span style="font-weight:600;color: black; font-size: 1.5em; padding-bottom: 0.3em; border-bottom: 1px solid #eaecef;">JavaScript - Silly Projects</span></summary> 
-
+### JavaScript - Silly Projects
   Contains my versions of the projects that are a part of Wes Bos's 30 days of Vanilla JS.
   1. Drum Kit - [Click here to visit](https://stephenmarri.github.io/JavaScript30/01-DrumKit/)
   2. Analog Clock - [Click here to visit](https://stephenmarri.github.io/JavaScript30/02-AnalogClock/index.html)
   3. Change Colors - [Click here to visit](https://stephenmarri.github.io/JavaScript30/03-CSSVariables/)
   4. Flex Panels - [Click here to visit](https://stephenmarri.github.io/JavaScript30/05-FlexPanels/index.html)
+<details> 
+<summary>View all...</summary>
+
   5. Indian Cities - [Click here to visit](https://stephenmarri.github.io/JavaScript30/06-TypeAhead/)
   6. Canvas - [Click here to visit](https://stephenmarri.github.io/JavaScript30/08-Canvas/)
   7. Check Boxes - [Click here to visit](https://stephenmarri.github.io/JavaScript30/10-CheckBoxes/)
