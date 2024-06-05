@@ -1,74 +1,79 @@
-### Hi there 👋
+### Hello there... 👋
 
-<!--
-**stephenmarri/stephenmarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is Stephen.
 
-Here are some ideas to get you started:
+I am an [**Automation Engineer**](https://www.linkedin.com/in/stephenmarri) by profession, but that doesn't limit me eeh!!! I am interested in everything related to computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out some of the games and projects that I've tried.
+<br>Below you'll find a few projects that I built while learning to program primarily in JavaScript & Python.
+<br>You can check out my GitHub repositories [here](https://github.com/stephenmarri).
 
-This is Stephen. Check out all the games and projects that I've built. Drop a note if you have some interesting ideas for me.
-Check out my GitHub repos by clicking [here](https://github.com/stephenmarri).
+### Featured Projects
+<style>
+  #feature_table td{
+    border-collapse: collapse;
+    border: 0;
+    padding-top:2px;
+    padding-bottom:2px;
+  }
 
 
-## Vanilla JS - games  
-These games are inspired from popular ideas and are almost similar to their original form.  
-  
-  1. Sudoku         - [Click here to play the game](https://stephenmarri.github.io/games/sudoku/)
-  2. 2048           - [Click here to play the game](https://stephenmarri.github.io/games/2048/)
-  3. Tetris         - [Click here to play the game](https://stephenmarri.github.io/games/tetris/)  
-  4. BreakOut       - [Click here to play the game](https://stephenmarri.github.io/games/breakout/)  
-  5. Space Invaders - [Click here to play the game](https://stephenmarri.github.io/games/spaceInvaders/)
-  6. Nokia Snake    - [Click here to play the game](https://stephenmarri.github.io/games/nokiasnake/)  
-  7. Memory Cards   - [Click here to play the game](https://stephenmarri.github.io/games/memoryCards/)  
-  8. Connect Four   - [Click here to play the game](https://stephenmarri.github.io/games/connectfour/)  
-  9. Whackamole     - [Click here to play the game](https://stephenmarri.github.io/games/whackamole/)  
-  10. Frogger        - [Click here to play the game](https://stephenmarri.github.io/games/frogger/)
+</style>
 
-| __SUDOKU__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/sudoku/)_ <br><br> <img src="./images/demo_sudoku.gif" height="300"> <br><br> | __2048__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/2048/)_ <br><br> <img src="./images/img_2048.png" height="300"> <br><br>  |
-| :-------------: | :-------------: |
-|  __TETRIS__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/tetris/)_ <br><br> <img src="./images/img_tetris.png" height="300"> <br><br> |  __SPACE INVADERS__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/spaceInvaders/)_ <br><br> <img src="./images/img_space_invaders.png" height="300"> <br><br>  |
-|  __NOKIA SNAKE__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/nokiasnake/)_ <br><br> <img src="./images/img_nokia_snake.png" height="300"> <br><br> |  __CONNECT 4__ <br>_[Click here to play the game](https://stephenmarri.github.io/games/connectfour/)_ <br><br> <img src="./images/img_connect4.png" height="300"> <br><br>  |
-
-<table>
+<table id="feature_table">
   <tr>
-    <td>Content from cell 1</td>
-    <td>Content from cell 2</td>
+    <td style="width:60%">Sorting Visualizer</td>
+    <td><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td>
   </tr>
   <tr>
-    <td>Content from cell 1</td>
-    <td>Content from cell 2</td>
+    <td>Sudoku</td>
+    <td><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td>
   </tr>
   <tr>
-    <td>Content in the first column</td>
-    <td>Content in the second column</td>
+    <td>2048</td>
+    <td><a href="https://stephenmarri.github.io/games/2048/" target="_blank">Click here to visit</a></td>
   </tr>
+  <tr>
+    <td>Ceaser's Cipher</td>
+    <td><a href="https://stephenmarri.github.io/js_projects/ciphers/" target="_blank">Click here to visit</a></td>
+  </tr>
+  <tr>
+    <td>Project Euler Solutions</td>
+    <td><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td>
+  </tr>
+ 
 </table>
 
+### Vanilla JS - games
 
-## JavaScript Projects
+These games are inspired from popular ideas and are almost similar to their original form.
+
+1. Sudoku - [Click here to play the game](https://stephenmarri.github.io/games/sudoku/)
+2. 2048 - [Click here to play the game](https://stephenmarri.github.io/games/2048/)
+3. Tetris - [Click here to play the game](https://stephenmarri.github.io/games/tetris/)
+4. BreakOut - [Click here to play the game](https://stephenmarri.github.io/games/breakout/)
+5. Space Invaders - [Click here to play the game](https://stephenmarri.github.io/games/spaceInvaders/)
+6. Nokia Snake - [Click here to play the game](https://stephenmarri.github.io/games/nokiasnake/)
+7. Memory Cards - [Click here to play the game](https://stephenmarri.github.io/games/memoryCards/)
+8. Connect Four - [Click here to play the game](https://stephenmarri.github.io/games/connectfour/)
+9. Whackamole - [Click here to play the game](https://stephenmarri.github.io/games/whackamole/)
+10. Frogger - [Click here to play the game](https://stephenmarri.github.io/games/frogger/)
+
+### JavaScript Projects
 
 The below are a few fully functional JavaScript projects which are inspired from some popular ideas.
 
- 1. [Sorting Visualizer](https://stephenmarri.github.io/js_projects/sortingVisualizer/)
- 2. [Cipher's](https://stephenmarri.github.io/js_projects/ciphers/)
- 3. [Mathematical Functions](https://stephenmarri.github.io/js_projects/mathFunctions/)
- 4. [Project Euler Solutions](https://stephenmarri.github.io/project_euler/site/)
+1.  [Sorting Visualizer](https://stephenmarri.github.io/js_projects/sortingVisualizer/)
+2.  [Cipher's](https://stephenmarri.github.io/js_projects/ciphers/)
+3.  [Mathematical Functions](https://stephenmarri.github.io/js_projects/mathFunctions/)
+4.  [Project Euler Solutions](https://stephenmarri.github.io/project_euler/site/)
 
 ## JavaScript30
 
 Contains my versions of the projects that are a part of Wes Bos's 30 days of Vanilla JS.
-  
-Below are the github pages links where you can access each project.    
-  
+
+Below are the github pages links where you can access each project.
+
 1. [Drum Kit](https://stephenmarri.github.io/JavaScript30/01-DrumKit/)
 2. [Analog Clock](https://stephenmarri.github.io/JavaScript30/02-AnalogClock/index.html)
 3. [Change Colors](https://stephenmarri.github.io/JavaScript30/03-CSSVariables/)
@@ -78,8 +83,8 @@ Below are the github pages links where you can access each project.
 7. [Check Boxes](https://stephenmarri.github.io/JavaScript30/10-CheckBoxes/)
 8. [Video Player](https://stephenmarri.github.io/JavaScript30/11-VideoPlayer/)
 
-
 ## Singletons
+
 Projects, mostly static, and are just a piece of action
 
 Project 1: Interactive search: A simple static page that has a fancy search bar and that's it. Nothing else. Open.Hover.Type.Exit :)
@@ -87,5 +92,9 @@ Use the below URL to access the github page of the same
 (https://stephenmarri.github.io/singletons/interactiveSearchBox/)
 
 Project 2: Random dad jokes on button click. The jokes are fetched from the API provided by icanhazdadjokes.com.
-Use the below URL to access the github page of the same 
+Use the below URL to access the github page of the same
 (https://stephenmarri.github.io/singletons/randomDadJokes/)
+
+### And finally....
+
+> If carpenters made buildings the way programmers make programs, the first woodpecker to come along would destroy all of civilization.<br><em>- Unknown Author</em>
