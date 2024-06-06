@@ -48,7 +48,7 @@ These games are inspired from popular ideas and are almost similar to their orig
 
 #### And...
 > <q>If carpenters made buildings the way programmers make programs, the first woodpecker to come along would destroy all of civilization.</q><br><em>- Unknown Author</em>
-<br>
+
 <br>
 
 ## JavaScript - Goofy Projects
