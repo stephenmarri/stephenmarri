@@ -4,10 +4,10 @@
 
 I am an ***<a style="color:blue !important; text-decoration-line: underline;" href="https://www.linkedin.com/in/stephenmarri" target="_blank">Automation Engineer</a>*** by profession, but that doesn't limit me eeh!!! I am interested in everything related to computer science.
 
-Below you'll find a few projects that I built while learning to program primarily in JavaScript & Python. You can check out my GitHub repositories <a href="https://github.com/stephenmarri" target="_blank">here</a>.
+Below you'll find a few projects that I built while learning to program primarily in JavaScript & Python. You can check out my GitHub repositories <a href="https://github.com/stephenmarri" target="_blank" style="text-decoration:underline">here</a>.
+<br>
 
 ## Featured Projects
-
 <table>
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 4px !important;width:60%">Sudoku</td><td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td></tr>
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 4px !important">Project Euler</td><td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td></tr>
@@ -48,6 +48,7 @@ These games are inspired from popular ideas and are almost similar to their orig
 
 #### And...
 > <q>If carpenters made buildings the way programmers make programs, the first woodpecker to come along would destroy all of civilization.</q><br><em>- Unknown Author</em>
+<br>
 <br>
 
 ## JavaScript - Goofy Projects
