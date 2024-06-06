@@ -10,16 +10,12 @@ Below you'll find a few projects that I built while learning to program primaril
 
 <table>
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 4px !important;width:60%">Sudoku</td><td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/games/sudoku/" target="_blank">Click here to visit</a></td></tr>
-  <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 4px !important">2048</td><td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/games/2048/" target="_blank">Click here to visit</a></td></tr>
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 4px !important">Project Euler</td><td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/project_euler/site/" target="_blank">Click here to visit</a></td></tr>
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 4px !important">Sorting Visualizer</td><td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/js_projects/sortingVisualizer/" target="_blank">Click here to visit</a></td></tr>
-  <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 4px !important">Ceaser's Cipher</td><td style="border:0 !important; padding:2px 4px !important"><a href="https://stephenmarri.github.io/js_projects/ciphers/" target="_blank">Click here to visit</a></td></tr> 
 </table>
-
-
+<br>
 
 ## JavaScript - Simple Games
-
 These games are inspired from popular ideas and are almost similar to their original form.
 
 <table >
@@ -34,7 +30,8 @@ These games are inspired from popular ideas and are almost similar to their orig
 <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important;">9. Whackamole</td><td style="border:0;padding:2px 4px !important"><a href="https://stephenmarri.github.io/games/whackamole/" target="_blank">Click here to play</a></td></tr>
 <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important;">10. Frogger</td><td style="border:0;padding:2px 4px !important"><a href="https://stephenmarri.github.io/games/frogger/" target="_blank">Click here to play</a></td></tr>
 </table>
-  
+<br>
+
 ## One Hundred Days of ~~Solitude~~  Programs
 ###### Python
 <table >
@@ -47,9 +44,11 @@ These games are inspired from popular ideas and are almost similar to their orig
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important; width:50%">1. Tic Tac Toe</td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/01.TicTacToe/TicTacToe/public/demo.gif?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/tree/main/javascript/01.TicTacToe/TicTacToe" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://100projects-01-tictactoe-git-main-stephenmarris-projects.vercel.app/" target="_blank">Live Link - Vercel</a></td></tr>
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important;">2. Countries Quiz </td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/2.CapitalsQuiz/public/demo.gif?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/2.CapitalsQuiz" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://100projects-02-countriesquiz.vercel.app/" target="_blank">Live Link - Vercel</a></td></tr>
 </table>
+<br>
 
 #### And...
 > <q>If carpenters made buildings the way programmers make programs, the first woodpecker to come along would destroy all of civilization.</q><br><em>- Unknown Author</em>
+<br>
 
 ## JavaScript - Goofy Projects
   Contains my versions of the projects that are a part of Wes Bos's 30 days of Vanilla JS.
