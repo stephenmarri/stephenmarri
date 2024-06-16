@@ -35,18 +35,24 @@ These games are inspired from popular ideas and are almost similar to their orig
 ## One Hundred Days of ~~Solitude~~  Programs
 ###### Python
 <table >
+<!-- 01. Capitals Quiz -->
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important; width:65%">1. Capitals Quiz</td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/python/01.CapitalsQuiz/demo.gif?raw=true?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/tree/main/python/01.CapitalsQuiz" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="" target="_blank"></a></td></tr>
+<!-- 02. Tic Tac Toe -->
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important;">2. Tic Tac Toe</td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/python/02.TicTacToe/demo.gif?raw=true?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/tree/main/python/02.TicTacToe" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="" target="_blank"></a></td></tr>
-  <!-- 3. Text Utilities -->
+<!-- 03. Text Utilities -->
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important;">3. Text Utilities</td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/python/03.TextUtilities/demo.gif?raw=true?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/tree/main/python/03.TextUtilities" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="" target="_blank"></a></td></tr>
-  <!-- 4. Word Tying Game -->
+<!-- 04. Word Tying Game -->
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important;">4. Word Tying Game </td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/python/04.WordTypingGame/demo.gif?raw=true?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/tree/main/python/04.WordTypingGame" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="" target="_blank"></a></td></tr>
 </table>
 
 ###### Web Based
 <table >
+ <!-- 01. Tic Tac Toe -->
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important; width:40%">1. Tic Tac Toe</td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/01.TicTacToe/TicTacToe/public/demo.gif?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/tree/main/javascript/01.TicTacToe/TicTacToe" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://100projects-01-tictactoe-git-main-stephenmarris-projects.vercel.app/" target="_blank">Live Link</a></td></tr>
+<!-- 02. Countries Quiz -->
   <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important;">2. Countries Quiz </td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/2.CapitalsQuiz/public/demo.gif?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/2.CapitalsQuiz" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://100projects-02-countriesquiz.vercel.app/" target="_blank">Live Link</a></td></tr>
+<!-- 03. Election Results 2024 -->
+  <tr style="border:0 !important;background-color: white !important;"><td style="border:0 !important; padding:2px 8px !important;">03. Capitals Quiz</td><td style="border:0;padding:2px 4px !important"><a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/2.CapitalsQuiz/public/demo.gif?raw=true" target="_blank">Demo</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://github.com/stephenmarri/100-Projects/blob/main/javascript/03.ElectionResults" target="_blank">Code</a></td><td style="border:0 !important; padding:2px 8px !important;"><a href="https://100projects-03-electionresults-stephenmarris-projects.vercel.app/" target="_blank">Live Link</a></td></tr>
 </table>
 <br>
 
