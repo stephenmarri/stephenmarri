@@ -63,7 +63,7 @@ These games are inspired from popular ideas and are almost similar to their orig
 
 <br>
 
-## JavaScript - Goofy Projects
+## JavaScript - Simple Projects
   Contains my versions of the projects that are a part of Wes Bos's 30 days of Vanilla JS.
    1. Drum Kit -  <a href="https://stephenmarri.github.io/JavaScript30/01-DrumKit/" target="_blank">Click here to visit</a>
    2. Analog Clock -  <a href="https://stephenmarri.github.io/JavaScript30/02-AnalogClock/index.html" target="_blank">Click here to visit</a>
