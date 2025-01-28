@@ -74,6 +74,7 @@ These games are inspired from popular ideas and are almost similar to their orig
    7. Check Boxes -  <a href="https://stephenmarri.github.io/JavaScript30/10-CheckBoxes/" target="_blank">Click here to visit</a>
    8. Video Player -  <a href="https://stephenmarri.github.io/JavaScript30/11-VideoPlayer/" target="_blank">Click here to visit</a>
 
+and more simpler projects - <a href="https://stephenmarri.github.io/SimpleOnes/stopwatch/" target="_blank">Stopwatch</a>, <a href="https://stephenmarri.github.io/SimpleOnes/clock/" target="_blank">Clock</a>
    
   and more *sillier* projects.....
    1. Mathematical Functions - <a href="https://stephenmarri.github.io/js_projects/mathFunctions/" target="_blank">Click Here to visit</a>
